@@ -22,7 +22,7 @@ The dataset includes:
 - **Predictive Analysis**: Identifying seasonality and forecasting future sales.
 
 ## Visualization
-![Automobile Sales Dashboard](automobile_sales_dashboard.png)
+![Automobile Sales Dashboard.png]
 ### 📌 **Dashboard Preview**
 
 
