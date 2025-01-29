@@ -24,6 +24,7 @@ The dataset includes:
 ## Visualization
 
 ### 📌 **Dashboard Preview**
+![Automobile Sales Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/automobile_dashboard.png)
 
 
 ### 📌 **Sales Performance Over Time**
