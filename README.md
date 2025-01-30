@@ -47,4 +47,4 @@ The dataset includes:
 - Helps optimize pricing strategies.
 
 
-🚀 **View the interactive dashboard here:** [Link to Tableau Public]
+🚀 **View the interactive dashboard here:** ![Automobile SalesDashboard](https://github.com/kouatcheu1/Automobile_Sales/blob/main/Automobile%20Sales%20Dashboard.twbx)
