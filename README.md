@@ -47,4 +47,4 @@ The dataset includes:
 - Helps optimize pricing strategies.
 
 
-🚀 **View the interactive dashboard here:** [Automobile SalesDashboard](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/AutomobileSalesDashboard_17385954929410/AutomobileSalesDashboard)
+🚀 **View the interactive dashboard here:** [Automobile Sales Dashboard](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/AutomobileSalesDashboard_17385954929410/AutomobileSalesDashboard)
